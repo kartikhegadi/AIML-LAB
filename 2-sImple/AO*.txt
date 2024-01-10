@@ -1,4 +1,4 @@
-2) prog-2
+
 pip install heuristicsearch
 from heuristicsearch.ao_star import AOStar
 
